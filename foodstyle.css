@@ -1,0 +1,22 @@
+
+h1{
+  font-family: Times New Roman;
+  color: red;
+}
+h2{
+  color: purple;
+}
+h3{
+  color:blue;
+}
+p{
+  color: gray
+}
+.active{
+  color: green;
+  border: 5px dashed;
+  border-color: red;
+}
+body{
+  font-family: sans-serif;
+}
